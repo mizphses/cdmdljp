@@ -1,0 +1,6 @@
+This file describes API changes in /theme/cdmdljp
+information provided here is intended especially for theme designers.
+
+=== 0.1 ===
+** Import from Boost **
+Import all the components from boost and add some features on typos.

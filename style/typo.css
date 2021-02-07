@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;700;900&family=Noto+Sans+JP:wght@100;300;400;700;900&family=Kosugi&display=swap');
+html, body, p{
+  font-feature-settings: "palt";
+}
