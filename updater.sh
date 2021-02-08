@@ -1,5 +1,4 @@
-#!/bin/bash 
-git init
+#!/bin/bash
 git remote set-url origin https://github.com/mizphses/cdmdljp.git
 git remote add origin https://github.com/mizphses/cdmdljp.git
 git pull --set-upstream origin main
